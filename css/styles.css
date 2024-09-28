@@ -740,9 +740,12 @@ border-color: #4D5AE5;
     border-color: #4D5AE5;
 }
 
+.contacts-div-textarea {
+    margin-bottom: 16px;
+}
 
 .contacts-checkbox {
-    margin-bottom: 16px;
+    margin-bottom: 24px;
 }
 
 
